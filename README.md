@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an undergraduate student at Uva Wellassa University with a<br>keen interest in developing web applications, mobile<br>applications, desktop applications, and software solutions to<br>address real world challenges. Proficient in handling data<br>structures, I am passionate about leveraging my skills to create<br>innovative solutions. I am seeking opportunities in a dynamic<br>work environment where I can apply my knowledge, skills, and<br>talents to tackle challenges, and further expand my capabilities.
+I am an undergraduate student at Uva Wellassa University with a strong interest in data engineering, web application development, and software solutions that address real-world challenges. I am proficient in handling data structures, databases, and data pipelines, and I am passionate about leveraging my skills to build scalable and efficient data-driven systems. I am seeking opportunities in a dynamic work environment where I can apply my knowledge and continue to grow as a data engineer while contributing to innovative projects.
 
 
 ## 🌐 Socials:
